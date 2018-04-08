@@ -9,7 +9,7 @@ public class FleschKincaid implements Analyzer{
 
 
    public String getName(){
-      return "FleschKincaid";
+      return "FLESH_KINCAID";
    }
 
    public double analyze(List<List<String>> sentences) {
